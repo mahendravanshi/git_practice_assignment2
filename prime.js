@@ -19,3 +19,6 @@ let checkPrime = (num)=>{
 
 let num = 19;
 let x = checkPrime(num);
+
+
+console.log(x);
